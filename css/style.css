@@ -1212,9 +1212,9 @@ a.button-about:active {
 }
 
 .title-margin {
-	margin-top: 50px;
+	margin-top: 40px;
 	font-family: Josefin Sans;
-	color: #fff;
+	color: #FF4D61;
 	font-weight: 500;
 	font-size: 40px;
 	text-transform: capitalize;
@@ -1222,11 +1222,18 @@ a.button-about:active {
 }
 
 .i-c {
-	color: #FF4D61;
+	color: rgb(255, 255, 255);
 	margin-left: 20px;
+
 }
 
 .sub-s {
 	padding: 20px;
 	font-size: 20px;
+	letter-spacing: 8px;
+
+}
+
+.b-gap {
+	margin-right: 10px !important;
 }
